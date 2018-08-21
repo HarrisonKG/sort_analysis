@@ -1,6 +1,11 @@
 Kristen Harrison
-325, HW 1
+HW 1
 
 
-To run the code, unzip the folder and run in the terminal with the commands  python3 insertsort.py  and  python3 mergesort.py
+This project implements insertion, merge, and stooge sort, and compares their runtimes to illustrate the differences in asymptotic complexity. 
+
+
+  You can run the code with the commands  python3 insertsort.py  and  python3 mergesort.py  and python3 stoogesort.py
+  
+  The programs read in arrays from data.txt and send output to <insert/merge/stooge>.out
 
